@@ -1,0 +1,5 @@
+[
+  { "id": 1, "product": "Apples", "quantity": 100, "status": "Pending" },
+  { "id": 2, "product": "Bananas", "quantity": 50, "status": "Shipped" },
+  { "id": 3, "product": "Milk", "quantity": 200, "status": "Pending" }
+]
